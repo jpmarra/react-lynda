@@ -1,0 +1,19 @@
+{
+  "name": "react-essential",
+  "version": "1.0.0",
+  "description": "\"A project focusing on React and related tools\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "JP Marra",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^6.3.2",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
